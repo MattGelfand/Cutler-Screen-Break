@@ -1,0 +1,24 @@
+#football {
+position:relative; 
+left: 315px;
+bottom: 5px;
+z-index: 1001;
+}
+
+#myBackground {
+width: 1000px;
+height: 667px;
+background: url("images/cutler1.jpg") no-repeat;
+margin: 0 auto;
+position:relative;
+}
+
+
+#glass {
+width: 2100px;
+height: 667px;
+background: url("images/glass1.png") no-repeat center center;
+position: relative;
+display: none;
+}
+
