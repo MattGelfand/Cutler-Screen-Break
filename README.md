@@ -1,6 +1,4 @@
-cutler_glass
+Cutler Screen Break
 ============
 
-Jay Cutler throws a football and breaks your screen. 
-
-GO BEARS. 
+Jay Cutler breaks your screen. Heavy CSS3 / jQuery for this one. 
